@@ -15,9 +15,10 @@
 // Maximum budget: 20 Gift List: [13, 2, 4, 6, 1] Should return 4.
 
 // NOTE: All numbers will be integers >= 0, and the array will never be empty.
+
+
 function howManyGifts(maxBudget, gifts) {
   let remainingGifts = 0;
-  // sorts gift array from smallest -> largest
   gifts = gifts.sort((a, b) => a - b);
   while (maxBudget >= 0) {
     maxBudget = maxBudget - gifts[remainingGifts];
