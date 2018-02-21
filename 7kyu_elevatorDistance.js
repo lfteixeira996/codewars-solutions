@@ -14,12 +14,11 @@
 // Random tests will contain 2-20 elements in array, and floor values between 0
 // and 30.
 
-
 function elevatorDistance(array) {
- var floorTotal = 0;
- for(let i = 0; i < array.length - 1; i++){
-   let numDifference = (Math.abs(array[i] - array[i + 1]));
-   floorTotal += numDifference;
- }
- return floorTotal;
+  var floorTotal = 0;
+  for (let i = 0; i < array.length - 1; i++) {
+    let numDifference = Math.abs(array[i] - array[i + 1]);
+    floorTotal += numDifference;
+  }
+  return floorTotal;
 }

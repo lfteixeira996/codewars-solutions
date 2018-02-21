@@ -16,7 +16,6 @@
 
 // NOTE: All numbers will be integers >= 0, and the array will never be empty.
 
-
 function howManyGifts(maxBudget, gifts) {
   let remainingGifts = 0;
   gifts = gifts.sort((a, b) => a - b);
