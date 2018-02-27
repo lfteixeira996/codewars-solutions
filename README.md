@@ -4,6 +4,6 @@ This is a repository of the katas I have done in CodeWars and my answers.
 
 [![Profile Screen Shot](./profile.png?raw=true "Codewars Profile")](https://www.codewars.com/users/cmbremmer)
 
-## Authors
+## Author
 
-* **Chris Bremmer** - [Personal Site](www.chrisbremmer.com)
+* **Chris Bremmer** - [Personal Site](http://www.chrisbremmer.com)
