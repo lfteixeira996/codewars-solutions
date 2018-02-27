@@ -6,4 +6,4 @@ This is a repository of the katas I have done in CodeWars and my answers.
 
 ## Authors
 
-* **Chris Bremmer** - [Personal Site](chrisbremmer.com)
+* **Chris Bremmer** - [Personal Site](https://www.chrisbremmer.com)
